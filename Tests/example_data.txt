@@ -1,5 +1,7 @@
 ;
-name|STR;age|INT;friends|[]
-Benno;21;JHappy,Erik
-JHappy;23;Benno
-Erik;25;Benno
+name|STR;age|INT;friends|[];hobbies|[]
+
+John;32;Jane,Jim,Joan;reading,hiking,cooking,coding
+Jane;29;John,Jim,Joan;painting,yoga,dancing
+Jim;36;John,Jane,Joan;golfing,Fishing,coding,photography
+Joan;31;John,Jane,Jim;sewing,knitting,gardening,painting

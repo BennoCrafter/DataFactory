@@ -1,4 +1,4 @@
-from DataFactoryOld.parser import Parser
+from DataFactory.parser import Parser
 
 
 class PrettyData:

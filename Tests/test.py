@@ -1,4 +1,4 @@
-from DataFactoryOld import return_output
+from DataFactory import return_output
 
 filename = "example_data.txt"
 # create object
@@ -9,4 +9,5 @@ print(df.get_line(2))
 print(df.get_colum("name"))
 # print specific colum of line
 print(df.get_colum_from_line("name", 1))
-# add new line
+# find best match for user A with the selctions of hobbies
+print(df.get_best_match(user="John", users_colum="name", selection_colum="hobbies"))
