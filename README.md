@@ -13,5 +13,5 @@ A little Pandas clone
 <code>print(df.get_colum("name"))</code>
 ### print specific colum of line
 <code>print(df.get_colum_from_line("name", 1))</code>
-### find best match for user John with the selctions of hobbies
+### find best match for user John with the selctions of hobbies and names
 <code>print(df.get_best_match(user="John", users_colum="name", selection_colum="hobbies"))</code>
