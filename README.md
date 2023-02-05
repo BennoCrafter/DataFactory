@@ -2,7 +2,7 @@
 A little Pandas clone
 
 # How to use it?
-###create DataFactory object
+### create DataFactory object
 <code>df = return_output.Return(filename=filename)</code>
 
 # Features
