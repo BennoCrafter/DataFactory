@@ -6,4 +6,4 @@
 - [x] get best match for a user
 - [x] transfer_str_list_to_actuall
 - [ ] get only particualar content of a line like only all with hobbie A
-- [ ] print particualar colum of the line where the colum name is John
+- [x] print particualar colum of the line where the colum name is John
